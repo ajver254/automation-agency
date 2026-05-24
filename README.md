@@ -26,12 +26,6 @@ automation-agency/
 - Mobile hamburger menu with overlay
 - SEO meta tags and Open Graph properties
 
-## Deployment (GitHub Pages)
-
-1. Push this repository to GitHub.
-2. Go to **Settings > Pages** and set the source to the `main` branch.
-3. Replace `yourdomain.com` in the `CNAME` file with your actual domain.
-4. Configure your DNS provider to point to GitHub Pages (`185.199.108-111.153`).
 
 ## External Dependencies
 
